@@ -1,0 +1,96 @@
+.imagem-post {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+body {
+    font-family: "Poppins", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    font-size: 1rem;
+    color: #101012;
+    background: #efeded;
+    line-height: 1.6;
+}
+
+header {
+    color: #000000;
+    padding: 2.5rem 0;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+header .tagline {
+    font-size: 1rem;
+    opacity: 0.9;
+    margin-top: 0.5rem;
+}
+
+header nav a,
+nav a {
+    text-decoration: none;
+    color: #000000;
+    padding: 0.0rem 0.75rem;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    background: #1f2937;
+    color: #ffffff;
+}
+
+main>section {
+    padding: 3rem 0;
+    border-bottom: 1px solid #2b5bbc;
+}
+
+#hero h2::first-letter {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+
+max-width img {
+    max-width: 100%;
+    display: block;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1.25rem;
+    font-size: 0.95rem;
+}
+
+thead {
+    background-color: #f3f4f6;
+}
+
+th,td {
+    text-align: left;
+    padding: 0.8rem 1rem;
+    border-bottom: 1px solid #0b0b0b;
+}
+
+tbody tr {
+    background: #fafafa;
+}
+
+.avatar{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
